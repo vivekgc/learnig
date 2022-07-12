@@ -15,5 +15,5 @@ print(array1)
 
 array1[2] = 80
 
-print('array after adding ', array1)
+print('array after adding some value :', array1)
 
