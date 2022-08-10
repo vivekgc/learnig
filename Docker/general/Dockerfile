@@ -1,7 +1,7 @@
 FROM ubuntu:14.04
 LABEL name="vivek-devops"
 LABEL email="admin@vivek-devops.com"
-ENV NAME Gaurav
+ENV NAME vivek
 ENV PASS password
 RUN pwd > /tmp/1stpwd.txt
 RUN cd /tmp
