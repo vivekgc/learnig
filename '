@@ -1,0 +1,60 @@
+[33mcommit a129dc88fc8449315b6852136deb9b7b6ec3d077[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-1[m[33m, [m[1;31morigin/feature-1[m[33m)[m
+Author: Vivek <vivgc16305@gmail.com>
+Date:   Wed Aug 10 16:19:02 2022 +0530
+
+    test changes
+
+[33mcommit 3b32291652053e3b503bd1bf862518de2a8f6e4d[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Vivek <vivgc16305@gmail.com>
+Date:   Wed Aug 10 15:10:19 2022 +0530
+
+    CM and Entry Point
+
+[33mcommit 49a2e84e3330cebd37fc6ba1cc6dd60db6d6830a[m
+Author: Vivek <vivgc16305@gmail.com>
+Date:   Wed Aug 10 13:30:37 2022 +0530
+
+    remove terraform
+
+[33mcommit 1d9ea335647b3269abba881d01c3f18706654b0b[m
+Merge: 4d2602d 24495e4
+Author: Vivek <vivgc16305@gmail.com>
+Date:   Wed Aug 10 13:24:52 2022 +0530
+
+    Merge branch 'main' of https://github.com/vivekgc/learnig
+
+[33mcommit 4d2602dc3362ee69dd241e729dfea60a4b2c6e4c[m
+Author: Vivek <vivgc16305@gmail.com>
+Date:   Wed Aug 10 13:19:04 2022 +0530
+
+    changing folder
+
+[33mcommit 24495e451ec63a66e9c388d68910bc9f20a4d659[m
+Author: Vivek <vivgc16305@gmail.com>
+Date:   Thu Jul 14 13:25:46 2022 +0530
+
+    LargeWord
+
+[33mcommit cc7dfa3a0051911f0b9609666def266e916a0740[m
+Author: Vivek GC <vivekinr003650@BLR.ALLEGISINDIA.COM>
+Date:   Wed Jul 13 11:30:28 2022 +0530
+
+    Datastructure
+
+[33mcommit 80f226aeb7af728c61b3779e8682929503a88a79[m
+Author: Vivek GC <vivekinr003650@BLR.ALLEGISINDIA.COM>
+Date:   Tue Jul 12 18:27:33 2022 +0530
+
+    array update
+
+[33mcommit 8650b7ce3ac7f3b65d9278eb92fb523fb99bdd13[m
+Author: Vivek GC <vivekinr003650@BLR.ALLEGISINDIA.COM>
+Date:   Tue Jul 12 17:57:07 2022 +0530
+
+    array
+
+[33mcommit ee145f5fc6d4083d5eecaa8a889ed62482926994[m
+Author: Vivek GC <vivekinr003650@BLR.ALLEGISINDIA.COM>
+Date:   Tue Jul 12 16:57:59 2022 +0530
+
+    test
