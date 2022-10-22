@@ -1,0 +1,17 @@
+kind: Service
+apiVersion: v1
+metadata:
+   name: carts
+   annotations:
+         prometheus.io/scrape: 'true'
+   labels:
+     name: carts
+   namespace: sock-shop
+spec:
+  selector:
+    app:  carts
+  type:   NodePort
+  ports:
+  - name:  http
+    port:  80
+    targetPort:  80
