@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|d:\\learning\\dotnet\\ecommerce-app-master\\ecommerce-app-master\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0099D296-7D06-4C00-8B3C-1B8780B65702}|Infrastructure\\Infrastructure.csproj|d:\\learning\\dotnet\\ecommerce-app-master\\ecommerce-app-master\\infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0099D296-7D06-4C00-8B3C-1B8780B65702}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|d:\\learning\\dotnet\\ecommerce-app-master\\ecommerce-app-master\\api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|solutionrelative:api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|d:\\learning\\dotnet\\ecommerce-app-master\\ecommerce-app-master\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|d:\\learning\\dotnet\\ecommerce-app-master\\ecommerce-app-master\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|d:\\learning\\dotnet\\ecommerce-app-master\\ecommerce-app-master\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7399C99C-4E50-4C11-A142-99C289A78474}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0099D296-7D06-4C00-8B3C-1B8780B65702}|Infrastructure\\Infrastructure.csproj|d:\\learning\\dotnet\\ecommerce-app-master\\ecommerce-app-master\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0099D296-7D06-4C00-8B3C-1B8780B65702}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "products.json",
+              "DocumentMoniker": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\Infrastructure\\Data\\SeedData\\products.json",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SeedData\\products.json",
+              "ToolTip": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\Infrastructure\\Data\\SeedData\\products.json",
+              "RelativeToolTip": "Infrastructure\\Data\\SeedData\\products.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T08:52:10.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T08:51:12.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\Startup.cs",
+              "RelativeDocumentMoniker": "API\\Startup.cs",
+              "ToolTip": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\Startup.cs",
+              "RelativeToolTip": "API\\Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:51:03.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:48:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:47:17.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API",
+              "DocumentMoniker": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T08:08:38.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Learning\\dotnet\\eCommerce-App-master\\eCommerce-App-master\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T08:08:34.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
